@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PraticasCurso</string>
+    <string name="text_title">Aplicativo de calculo de viagens</string>
+    <string name="edit_distance">Distancia</string>
+    <string name="text_2">Total de Quilometros</string>
+    <string name="edit_price">Preço</string>
+    <string name="text_3">Preço por litro</string>
+    <string name="edit_autonomy">Autonomia</string>
+    <string name="text_4">Quilometros por Litro</string>
+    <string name="text_5">SEU GASTO TOTAL SERÁ DE</string>
+    <string name="text_valueToPay">R$ 0</string>
+    <string name="button_valueToCalculate">CALCULAR</string>
+</resources>
